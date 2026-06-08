@@ -32,7 +32,7 @@ export const Footer = () => {
               </svg>
             </a>
             <a
-              href="https://www.instagram.com/pry_uchiha/"
+              href="https://www.instagram.com/priyansh.u26/"
               target="_blank"
               rel="noreferrer"
               aria-label="Instagram"
@@ -45,7 +45,7 @@ export const Footer = () => {
                 fill="currentColor"
                 aria-hidden="true"
               >
-                <path d="M7 3h10a4 4 0 0 1 4 4v10a4 4 0 0 1-4 4H7a4 4 0 0 1-4-4V7a4 4 0 0 1 4-4zm10 2H7a2 2 0 0 0-2 2v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2zm-5 3.2A3.8 3.8 0 1 1 8.2 12 3.8 3.8 0 0 1 12 8.2zm0 2A1.8 1.8 0 1 0 13.8 12 1.8 1.8 0 0 0 12 10.2zm4.3-2.6a.9.9 0 1 1-.9-.9.9.9 0 0 1 .9.9z" />
+                <path d="M7 3h10a4 4 0 0 1 4 4v10a4 4 0 0 1-4 4H7a4 4 0 0 1-4-4V7a4 4 0 0 1 4-4zm10 2H7a2 2 0 0 0-2 2v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2zm-5 3.2A3.8 3.8 0 1 1 8.2 12 3.8 3.8 0 0 1 12 8.2zm0 1.6a2.2 2.2 0 1 0 0 4.4 2.2 2.2 0 0 0 0-4.4zm4.5-2.4a.8.8 0 1 0 0-1.6.8.8 0 0 0 0 1.6z" />
               </svg>
             </a>
           </div>
